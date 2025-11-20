@@ -1,0 +1,8 @@
+*~
+*.swp
+
+#virtual environemnt
+venv/
+
+
+__pycache__/

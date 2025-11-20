@@ -1,0 +1,4 @@
+pandas==2.3.3
+pytest==8.4.2
+duckdb==1.4.1
+pandasql==0.7.3
